@@ -9,6 +9,9 @@ const products = [
   { id: 1, name: 'Gateron Blue', type: 'clicky', image: './bluegateron.jpg' },
   { id: 2, name: 'Gateron Brown', type: 'tactile', image: './browngateron.jpg' },
   { id: 3, name: 'Gateron Red', type: 'linear', image: './redgateron.jpg' },
+  { id: 4, name: 'Gateron Yellow', type: 'linear', image: './yellowgateron.jpg' },
+  { id: 5, name: 'Gateron Black', type: 'linear', image: './blackgateron.jpg' },
+  { id: 6, name: 'Gateron Clear', type: 'tactile', image: './cleargateron.jpg' }
 ];
 
 
