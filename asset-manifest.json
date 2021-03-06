@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/KB-Part-Picker/static/js/main.d72afe8b.chunk.js",
+    "main.js.map": "/KB-Part-Picker/static/js/main.d72afe8b.chunk.js.map",
+    "runtime-main.js": "/KB-Part-Picker/static/js/runtime-main.c7179124.js",
+    "runtime-main.js.map": "/KB-Part-Picker/static/js/runtime-main.c7179124.js.map",
+    "static/js/2.a0578295.chunk.js": "/KB-Part-Picker/static/js/2.a0578295.chunk.js",
+    "static/js/2.a0578295.chunk.js.map": "/KB-Part-Picker/static/js/2.a0578295.chunk.js.map",
+    "index.html": "/KB-Part-Picker/index.html",
+    "static/js/2.a0578295.chunk.js.LICENSE.txt": "/KB-Part-Picker/static/js/2.a0578295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7179124.js",
+    "static/js/2.a0578295.chunk.js",
+    "static/js/main.d72afe8b.chunk.js"
+  ]
+}
