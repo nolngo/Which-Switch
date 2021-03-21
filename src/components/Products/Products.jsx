@@ -2,17 +2,19 @@ import React, { useState } from 'react';
 import { Container, Grid, TextField, Button, InputAdornment } from '@material-ui/core';
 import Product from './Product/Product';
 import Search from '@material-ui/icons/Search';
+import data from './data.json'
 
 import useStyles from './styles';
 
-const products = [
-  { id: 1, name: 'Gateron Blue', type: 'clicky', image: './bluegateron.jpg' },
-  { id: 2, name: 'Gateron Brown', type: 'tactile', image: './browngateron.jpg' },
-  { id: 3, name: 'Gateron Red', type: 'linear', image: './redgateron.jpg' },
-  { id: 4, name: 'Gateron Yellow', type: 'linear', image: './yellowgateron.jpg' },
-  { id: 5, name: 'Gateron Black', type: 'linear', image: './blackgateron.jpg' },
-  { id: 6, name: 'Gateron Clear', type: 'tactile', image: './cleargateron.jpg' }
-];
+const products = data
+// [
+//   { id: 1, name: 'Gateron Blue', type: 'clicky', image: './bluegateron.jpg' },
+//   { id: 2, name: 'Gateron Brown', type: 'tactile', image: './browngateron.jpg' },
+//   { id: 3, name: 'Gateron Red', type: 'linear', image: './redgateron.jpg' },
+//   { id: 4, name: 'Gateron Yellow', type: 'linear', image: './yellowgateron.jpg' },
+//   { id: 5, name: 'Gateron Black', type: 'linear', image: './blackgateron.jpg' },
+//   { id: 6, name: 'Gateron Clear', type: 'tactile', image: './cleargateron.jpg' }
+// ];
 
 
 const Products = () => {
